@@ -3,7 +3,7 @@
 
 err = 0, warn = 2, info = 0
 IG Publisher Version: 1.1.118 Out of date - current version is 1.1.121
-Generated Sat Jun 11 06:52:07 UTC 2022. FHIR version 4.0.1 for minimalr4#0.0.1 (canonical = http://example.com/minimal-r4)
+Generated Sat Jun 11 07:11:02 UTC 2022. FHIR version 4.0.1 for minimalr4#0.0.1 (canonical = http://example.com/minimal-r4)
  Build Errors : 19 / 0 / 0
  /ig/fsh-generated/resources/StructureDefinition-fsh-patient : 0 / 1 / 1
  /ig/input/ig : 0 / 0 / 1
