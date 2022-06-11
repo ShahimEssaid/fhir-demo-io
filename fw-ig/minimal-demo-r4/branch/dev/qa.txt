@@ -1,0 +1,36 @@
+﻿Minimalr4 : Validation Results
+=========================================
+
+err = 0, warn = 2, info = 0
+IG Publisher Version: 1.1.118 Out of date - current version is 1.1.121
+Generated Sat Jun 11 06:52:07 UTC 2022. FHIR version 4.0.1 for minimalr4#0.0.1 (canonical = http://example.com/minimal-r4)
+ Build Errors : 19 / 0 / 0
+ /ig/fsh-generated/resources/StructureDefinition-fsh-patient : 0 / 1 / 1
+ /ig/input/ig : 0 / 0 / 1
+ /ig/input/resources/StructureDefinition-r4-patient : 0 / 1 / 1
+</table>
+== n/a ==
+ERROR: /ig/output/StructureDefinition-fsh-patient-definitions.html#/html/body/div/div/div/p/a at Line 736, column 28: The link '' for "" cannot be resolved
+ERROR: /ig/output/StructureDefinition-fsh-patient-examples.html#/html/body/div/div/div/p/a at Line 251, column 28: The link '' for "" cannot be resolved
+ERROR: /ig/output/StructureDefinition-fsh-patient-mappings.html#/html/body/div/div/div/p/a at Line 363, column 28: The link '' for "" cannot be resolved
+ERROR: /ig/output/StructureDefinition-fsh-patient.html#/html/body/div/div/div/p/a at Line 795, column 28: The link '' for "" cannot be resolved
+ERROR: /ig/output/StructureDefinition-fsh-patient.profile.history.html#/html/body/div/div/div/p/a at Line 240, column 28: The link '' for "" cannot be resolved
+ERROR: /ig/output/StructureDefinition-fsh-patient.profile.json.html#/html/body/div/div/div/p/a at Line 2488, column 28: The link '' for "" cannot be resolved
+ERROR: /ig/output/StructureDefinition-fsh-patient.profile.ttl.html#/html/body/div/div/div/p/a at Line 2199, column 28: The link '' for "" cannot be resolved
+ERROR: /ig/output/StructureDefinition-fsh-patient.profile.xml.html#/html/body/div/div/div/p/a at Line 2285, column 28: The link '' for "" cannot be resolved
+ERROR: /ig/output/StructureDefinition-r4-patient-definitions.html#/html/body/div/div/div/p/a at Line 736, column 28: The link '' for "" cannot be resolved
+ERROR: /ig/output/StructureDefinition-r4-patient-examples.html#/html/body/div/div/div/p/a at Line 251, column 28: The link '' for "" cannot be resolved
+ERROR: /ig/output/StructureDefinition-r4-patient-mappings.html#/html/body/div/div/div/p/a at Line 363, column 28: The link '' for "" cannot be resolved
+ERROR: /ig/output/StructureDefinition-r4-patient.html#/html/body/div/div/div/p/a at Line 800, column 28: The link '' for "" cannot be resolved
+ERROR: /ig/output/StructureDefinition-r4-patient.profile.history.html#/html/body/div/div/div/p/a at Line 240, column 28: The link '' for "" cannot be resolved
+ERROR: /ig/output/StructureDefinition-r4-patient.profile.json.html#/html/body/div/div/div/p/a at Line 2479, column 28: The link '' for "" cannot be resolved
+ERROR: /ig/output/StructureDefinition-r4-patient.profile.ttl.html#/html/body/div/div/div/p/a at Line 2191, column 28: The link '' for "" cannot be resolved
+ERROR: /ig/output/StructureDefinition-r4-patient.profile.xml.html#/html/body/div/div/div/p/a at Line 2278, column 28: The link '' for "" cannot be resolved
+ERROR: /ig/output/artifacts.html#/html/body/div/div/div/p/a at Line 187, column 28: The link '' for "" cannot be resolved
+ERROR: /ig/output/index.html#/html/body/div/div/div/p/a at Line 183, column 28: The link '' for "" cannot be resolved
+ERROR: /ig/output/toc.html#/html/body/div/div/div/p/a at Line 141, column 28: The link '' for "" cannot be resolved
+== fsh-generated/resources/StructureDefinition-fsh-patient.json ==
+WARNING: StructureDefinition.where(url = 'http://example.com/minimal-r4/StructureDefinition/fsh-patient'): The Implementation Guide contains no examples for this profile
+== input/ig.json ==
+== input/resources/StructureDefinition-r4-patient.json ==
+WARNING: StructureDefinition.where(url = 'http://example.com/minimal-r4/StructureDefinition/r4-patient'): The Implementation Guide contains no examples for this profile
